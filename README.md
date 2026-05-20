@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI & Automation Engineer based in Lisbon 🇵🇹<br>Shipping mobile apps and LLM-powered automation workflows.<br><br>- 🔨 Building: Meren (React Native + Expo), RAG pipelines, n8n automations<br>- ⚙️ Stack: Python · React Native · n8n · FastAPI · LLMs<br>- 🤝 Open to: AI/automation collabs, mobile projects
 
 

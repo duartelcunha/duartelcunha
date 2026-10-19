@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/wizard-banner.svg" width="100%" alt="Hi, I'm Duarte Cunha. AI and automation engineer, Lisbon. I build agents that do the work.">
+<img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/wizard-banner.svg" width="100%" alt="Hi, I'm Duarte Cunha. AI and Automation Engineer, Lisbon. I build agents that do the work.">
 
-I take the slow, manual parts of a business and turn them into systems that run on their own: LLM workflows, agents and local-first apps.
+<img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/card.svg" width="100%" alt="Role: AI and Automation Engineer at Deleg8lab. Based in Lisbon, Portugal. Experience: 2.5 years building AI agents and automations. Background: cybersecurity training (CTeSP, ISTEC). Focus: turning slow, manual work into systems that run on their own. Stack: Python, TypeScript, Rust, .NET and C#, React Native, FastAPI, PostgreSQL, Docker, n8n, Claude.">
 
-- **Now:** AI & automation engineer, building agentic workflows for SaaS products
-- **Background:** 2.5 years in AI and automation, cybersecurity training (CTeSP)
-- **Stack:** Python, TypeScript, C#, Rust, React Native, FastAPI, PostgreSQL, Docker
-
-[LinkedIn](https://linkedin.com/in/duartecunha-it) · [Email](mailto:duartelcunha.pt@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/duartecunha-it"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:duartelcunha.pt@gmail.com"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-email.svg" height="40" alt="Email"></a>
+</p>

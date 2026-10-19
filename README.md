@@ -4,6 +4,4 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/duartecunha-it"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:duartelcunha.pt@gmail.com"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-email.svg" height="40" alt="Email"></a>
 </p>

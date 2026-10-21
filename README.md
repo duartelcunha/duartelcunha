@@ -10,4 +10,4 @@
   <a href="mailto:duartelcunha.pt@gmail.com"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
-
+Inspired by SWMG.

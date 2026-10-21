@@ -10,4 +10,4 @@
   <a href="mailto:duartelcunha.pt@gmail.com"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-email.svg" height="40" alt="Email"></a>
 </p>
 
-<sub>Pixel icons: <a href="https://pixelarticons.com">pixelarticons</a> (MIT) and the <a href="https://kenney.nl/assets/1-bit-pack">Kenney 1-Bit Pack</a> (CC0). Font: Press Start 2P (OFL).</sub>
+

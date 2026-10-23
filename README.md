@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/duartecunha-it"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:duartelcunha.pt@gmail.com"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-email.svg" height="40" alt="Email"></a>
+  <a href="mailto:duartelcunha.pt@gmail.com?subject=Inquiry%20via%20GitHub%20Profile&body=Hi%20Duarte,%0A%0A">
+  <img src="./assets/btn-email.svg" height="40" alt="Email Duarte">
+</a>
 </p>
 
 Inspired by SWMG.

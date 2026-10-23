@@ -5,7 +5,9 @@
 <img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/footer.svg" width="100%" alt="Let's build something. Open to AI and automation collaborations.">
 
 <p align="center">
-  <a href="https://linkedin.com/in/duartecunha-it"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+   <a href="https://linkedin.com/in/duartecunha-it" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" style="vertical-align: middle;">
+</a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=duartelcunha.pt@gmail.com&su=GitHub%20Inquiry" target="_blank" rel="noopener noreferrer">
   <img src="./assets/btn-email.svg" height="40" alt="Email Duarte">

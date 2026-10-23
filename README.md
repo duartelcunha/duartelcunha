@@ -7,8 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/duartecunha-it"><img src="https://raw.githubusercontent.com/duartelcunha/duartelcunha/main/assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:duartelcunha.pt@gmail.com?subject=Inquiry%20via%20GitHub%20Profile&body=Hi%20Duarte,%0A%0A">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=duartelcunha.pt@gmail.com&su=GitHub%20Inquiry" target="_blank" rel="noopener noreferrer">
   <img src="./assets/btn-email.svg" height="40" alt="Email Duarte">
+</a>
 </a>
 </p>
 
